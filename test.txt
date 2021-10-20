@@ -3,3 +3,4 @@
 3. Print the sum of two numbers.
 4. Print the difference of any two numbers.
 5. Print the cube of a number given by the user.
+6 try
