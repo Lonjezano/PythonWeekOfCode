@@ -1,0 +1,2 @@
+1. Print the name of yoyr primary school.
+2. Print the name of your favorite subject in school
