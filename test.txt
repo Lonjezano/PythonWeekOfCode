@@ -1,2 +1,4 @@
 1. Print the name of yoyr primary school.
 2. Print the name of your favorite subject in school
+3. Print the number of times you got a punishment for misbehaving
+
